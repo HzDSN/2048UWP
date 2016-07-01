@@ -7,7 +7,30 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
-    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Padding="10">
+        <StackPanel>
+            <Image  Source="img\2.jpg"/>
+            <Image />
+            <Image />
+            <Image />
+        </StackPanel>
+        <StackPanel>
+            <Image />
+            <Image />
+            <Image />
+            <Image />
+        </StackPanel>
+        <StackPanel>
+            <Image />
+            <Image />
+            <Image />
+            <Image />
+        </StackPanel>
+        <StackPanel>
+            <Image />
+            <Image />
+            <Image />
+            <Image />
+        </StackPanel>
     </Grid>
 </Page>
